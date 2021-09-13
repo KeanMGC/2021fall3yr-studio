@@ -6,6 +6,8 @@ Site: Wilson Peak, Utah
 Location: 40.77570°N / 110.4623°W
 
 ![site](https://github.com/WUHAOZHUO/Anita-Haozhuo-Wu/blob/master/assets/0913/site.jpg)
+![24551631505284_ pic_hd](https://user-images.githubusercontent.com/85242597/133022662-967acf12-a558-421e-ab70-9e35d7e39dd2.jpg)
+
 
 _Wilson peak is more specifically in the Red Castle Lakes area. The Red Castle Lakes area is one of the more beautiful places in the Uintas. Red Castle and Wilson Peak rise high above the surrounding lakes, creating some gorgeous scenery. When viewed from the Upper Red Castle Lake, the north face of Wilson peak provides a rugged backdrop. Backcountry camping is excellent between Lower Red Castle Lake and the Upper Red Castle Lake. The nearby Red Castle is a spectacle in itself, being very rugged and standing tall above the lakes. The peak is named after A. D. Wilson, the head topographer for the Geological Survey of the 40th parallel._
 
