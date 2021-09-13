@@ -1,6 +1,6 @@
-The Cabin on the Peak
+# The Cabin on the Peak
 
-Anita
+# Anita
 
 Client: Hiker
 
@@ -34,11 +34,11 @@ Here are some references from Snohetta:
 ![24501631505257_ pic_hd](https://user-images.githubusercontent.com/85242597/133023245-5a646ee6-e130-47aa-b35f-220ec3925561.jpg)
 
 
-References
+# References
 
-Wilson Peak: Climbing, Hiking & Mountaineering. https://www.summitpost.org/wilson-peak/221286
-Tverrfjellhytta, Norwegian Wild Reindeer Pavilion, Snohetta. https://www.snohetta.com/projects/2-tverrfjellhytta-norwegian-wild-reindeer-pavilion
-Fuglemyrhytta – Oslo’s New Panoramic Self-Service Cabin. https://www.snohetta.com/projects/441-fuglemyrhytta-oslos-new-panoramic-self-service-cabin 
+Wilson Peak: Climbing, Hiking & Mountaineering. https://www.summitpost.org/wilson-peak/221286 <br>
+Tverrfjellhytta, Norwegian Wild Reindeer Pavilion, Snohetta. https://www.snohetta.com/projects/2-tverrfjellhytta-norwegian-wild-reindeer-pavilion <br>
+Fuglemyrhytta – Oslo’s New Panoramic Self-Service Cabin. https://www.snohetta.com/projects/441-fuglemyrhytta-oslos-new-panoramic-self-service-cabin <br>
 
 
 
