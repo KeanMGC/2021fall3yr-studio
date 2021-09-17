@@ -6,6 +6,8 @@ Location: GHK
 
 Scale: 1:1
 
+Material: Chalk
+
 Creative Team: Anita & Ollie
 
 ![7](https://user-images.githubusercontent.com/85242597/133790800-00b18e2d-bb04-4fe3-8b85-c42323185c34.jpg)
