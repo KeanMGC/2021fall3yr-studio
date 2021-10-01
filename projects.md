@@ -2,6 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects/
+
+comment_issue_id: 1
 ---
 
 
