@@ -13,7 +13,7 @@ The first year focussed on the relation between buildings – outside-in (ARCH 1
 {% include instructors_.html folder="/index/" %}
 
 
-<br><br><br>
+<br><br>
 
 #### Designers(students):
 
