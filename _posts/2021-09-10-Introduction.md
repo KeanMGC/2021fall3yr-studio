@@ -12,6 +12,6 @@ Welcome!
 
 This course is ment to take a micro to macro approach to dealing with a global housing crisis.
 
-[Please download our syllabus. ](/assets/2021w_fa_arch3105studio_syllabus.pdf)
+[Please download our syllabus. ](https://github.com/KeanMGC/2021fall3yr-studio/raw/master/assets/2021w_fa_arch3105studio_syllabus.pdf)
 
 
