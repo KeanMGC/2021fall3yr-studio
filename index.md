@@ -13,10 +13,6 @@ comment_issue_id: 1
 
 The final output of this studio was an complex program plan for two hundred residential units, with additional retail, office, and community programs such as a library or similar. You can see the final animations for these projects here.
 
-{% include index_.html folder="/index/" %}
-
-[comment]: <> (please refer to _incluedes/about_.html to add your photo)
-
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;"><iframe src="//player.bilibili.com/player.html?aid=379641429&bvid=BV1FZ4y197Lr&cid=455978265&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></td>
