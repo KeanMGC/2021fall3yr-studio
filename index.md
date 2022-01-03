@@ -17,6 +17,32 @@ The final output of this studio was an complex program plan for two hundred resi
 
 [comment]: <> (please refer to _incluedes/about_.html to add your photo)
 
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><iframe src="//player.bilibili.com/player.html?aid=379641429&bvid=BV1FZ4y197Lr&cid=455978265&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></td>
+    <td style="border: none;"><iframe width="560" height="315" src="https://www.youtube.com/embed/EobpgvE9aEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><iframe width="560" height="315" src="https://www.youtube.com/embed/sTHrN0P9ddU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td style="border: none;"><iframe width="560" height="315" src="https://www.youtube.com/embed/rNctWEErSFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+    <tr style="border: none;">
+    <td style="border: none;"><iframe width="560" height="315" src="https://www.youtube.com/embed/3uh5hzhQdP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td style="border: none;"><iframe width="1920" height="915" src="https://www.youtube.com/embed/fU_4zydIMtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+  </tr>
+   <tr style="border: none;">
+    <td style="border: none;"><iframe width="560" height="315" src="https://www.youtube.com/embed/YPM7JRtIgoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+     <td style="border: none;"><iframe width="560" height="315" src="https://www.youtube.com/embed/oTt1CNN-vjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+   </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><iframe width="560" height="315" src="https://www.youtube.com/embed/jogpEO3951s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td style="border: none;"><iframe width="560" height="315" src="https://www.youtube.com/embed/rNctWEErSFg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+   </tr>
+  <tr style="border: none;">
+    <td style="border: none;"><iframe width="560" height="315" src="https://www.youtube.com/embed/qqAOqxUp6AM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+    <td style="border: none;"><iframe width="2544" height="1136" src="https://www.youtube.com/embed/BllM34FkrL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+     </table>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QIHisIykzC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The course keeps in mind the public agenda of the school. The semester uses the first section as a research output, publicly exhibited, to then be analysed within the design of the second stage of the semester. The early focus being a small scale adaptable housing unit. We will be producing entries for the [Empowered Living Design Competition](https://aiautah.submittable.com/submit/080ccac9-449e-4105-b45a-22a543a2ee2b/empowered-living-design-competition-registration). The competition provides the option for two sizes (400sf & 650sf). It also asks you to consider one of three site conditions: A standalone site, a cluster site, or variations on the accessory dwelling site (please see page 3 of the brief for more details). Our interest in a small scale residential unit is in the details - working out the logistical requirements of the competition to produce a cutting edge residential unit. These efforts will be important in the development of the final half of the semester. Submission is not mandatory but is highly encouraged. Based on the competition brief there will be emphasis on the following: Affordability, Durability, Sustainability, Livability, and Accessibility. We will be using the [2015 International Residential Code](https://up.codes/viewer/utah/irc-2015) as the basis for the design guideline. See [IRC Tiny House revisions](https://up.codes/viewer/utah/irc-2015/chapter/new_Q/tiny-houses#new_Q).
