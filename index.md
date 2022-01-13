@@ -11,7 +11,7 @@ comment_issue_id: 1
 
 ---
 
-The final output of this studio was an complex program plan for two hundred residential units, with additional retail, office, and community programs such as a library. You can see the final animations for these projects below. The projects built on competition entries for the [Empowered Living Design Competition](https://www.slc.gov/can/empowered-living). Afterward the students selected from three sites, Amsterdam, NL, Wellington, NZ, Near Suzhou, CN. Each of these locations is dealing with different housing issues, and the intention is to be able to use a standard units to create context driven solutions. Please follow the progress of the studio and each of the students process at the bottom of the page and on the [about](/about.md) page respectively.
+The final output of this studio was an complex program plan for two hundred residential units, with additional retail, office, and community programs such as a library. You can see the final animations for these projects below. The projects built on competition entries for the [Empowered Living Design Competition](https://www.slc.gov/can/empowered-living). Afterward the students selected from three sites, Amsterdam, NL, Wellington, NZ, Near Suzhou, CN. Each of these locations is dealing with different housing issues, and the intention is to be able to use a standard units to create context driven solutions. Please follow the progress of the studio and each of the students process at the bottom of the page and on the [about](https://keanmgc.github.io/2021fall3yr-studio/about.md/) page respectively.
 
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
